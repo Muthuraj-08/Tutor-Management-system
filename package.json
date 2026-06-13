@@ -2,7 +2,6 @@
   "name": "tms-frontend",
   "version": "1.0.0",
   "description": "Tutor Management System Frontend",
-  "homepage": "https://muthuraj-08.github.io/Tutor-Management-system",
   "main": "src/App.js",
   "scripts": {
     "start": "react-scripts start",
