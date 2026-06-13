@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tutor-Management-system/static/css/main.e6c13ad2.css",
+    "main.js": "/Tutor-Management-system/static/js/main.6426392b.js",
+    "static/js/488.7d14663f.chunk.js": "/Tutor-Management-system/static/js/488.7d14663f.chunk.js",
+    "index.html": "/Tutor-Management-system/index.html",
+    "main.e6c13ad2.css.map": "/Tutor-Management-system/static/css/main.e6c13ad2.css.map",
+    "main.6426392b.js.map": "/Tutor-Management-system/static/js/main.6426392b.js.map",
+    "488.7d14663f.chunk.js.map": "/Tutor-Management-system/static/js/488.7d14663f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6426392b.js"
+  ]
+}
